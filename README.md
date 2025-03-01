@@ -1,16 +1,9 @@
 # 🌐 URL Extractor | Designed By YogSec
 
-## 💡 Problem Statement
-
-When working on **Bug Bounty**, **Pentesting**, or **OSINT** tasks, you often need to extract **all URLs** from various types of files — whether it's HTML, JS, CSS, JSON, XML, Python code, or any other file type.  
-📂 Going through these files **manually** is time-consuming and error-prone.
-
----
-
-## 🚀 Solution
-
 **URL Extractor | Designed By YogSec** is a **powerful Bash script** that helps you extract URLs from a **single file** or **all files inside a folder** — with support for **concurrent processing**.  
 💾 It can **save extracted URLs** to a file and also display them in the terminal, making it perfect for **bug hunters**, **security researchers**, and **developers**.
+
+![Screenshot](https://github.com/yogsec/URL_Extractor/blob/main/redacted-image.png)
 
 ---
 
