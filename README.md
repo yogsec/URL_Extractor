@@ -1,7 +1,3 @@
-Here’s a **beautiful `README.md`** for your **URL Extractor** tool with proper formatting, emojis, and clear sections explaining the **problem and solution**:
-
----
-
 # 🌐 URL Extractor | Designed By YogSec
 
 ## 💡 Problem Statement
